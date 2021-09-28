@@ -1,0 +1,5 @@
+TIMESTAMP = 1632825311
+SHA256 (bootstrap-dotnet-sdk-6.0.100-rc.1.21458.32-freebsd-x64.tar.gz) = b76fdc610d0e9e681784edef8ac2d142f2bfbdfe1b12e4371665c06293a1f5b6
+SIZE (bootstrap-dotnet-sdk-6.0.100-rc.1.21458.32-freebsd-x64.tar.gz) = 115504366
+SHA256 (dotnet-installer-v6.0.100-rc.1.21458.32_GH0.tar.gz) = a507b04612f976a2750a5c42c924be2cf7c5a6127ecaa7512a779797b1ded4d3
+SIZE (dotnet-installer-v6.0.100-rc.1.21458.32_GH0.tar.gz) = 414458

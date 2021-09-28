@@ -1,0 +1,6 @@
+.NET is a developer platform for building many different types of applications.
+
+This port is used to create a all-in-one source distribution, ready to be
+consumed by FreeBSD Ports framework.
+
+WWW: https://github.com/dotnet/installer

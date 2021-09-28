@@ -41,7 +41,7 @@ post-extract:
 #   jail -m jid=<jail id> allow.mlock=1
 # outside of the running jail for the time being.
 # Once everything is set up run
-#   make -C /usr/ports/lang/dotnet6-install clean all
+#   make -C /usr/ports/lang/dotnet6-installer clean all
 
 .if defined(PACKAGE_BUILDING)
 NO_BUILD=	yes
